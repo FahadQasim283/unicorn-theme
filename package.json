@@ -1,0 +1,21 @@
+{
+  "name": "unicorn-theme",
+  "displayName": "unicorn-theme",
+  "description": "fully customized theme for vs code ",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "unicorn-vscode-theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/unicorn-vscode-theme-color-theme.json"
+      }
+    ]
+  }
+}
