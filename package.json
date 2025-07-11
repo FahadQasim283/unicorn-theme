@@ -1,8 +1,41 @@
 {
   "name": "unicorn-dark",
-  "displayName": "unicorn dark",
+  "displayName": "Unicorn Dark Theme",
   "description": "Unleash the magic of coding with the Unicorn dark Theme for Visual Studio Code! 🦄✨ Dive into a world where every line of code is a brushstroke on the canvas of your imagination. This theme blends vibrant colors, soft contrasts, and a touch of whimsy to create an environment that's both visually pleasing and delightful. Let your code-writing experience be as enchanting as a unicorn sighting — rare, mythical, and utterly delightful.",
-  "version": "0.0.1",
+  "version": "0.0.2",
+  "publisher": "MarfahTechnologies",
+  "author": {
+    "name": "Fahad Qasim"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FahadQasim283/unicorn-theme.git"
+  },
+  "bugs": {
+    "url": "https://github.com/FahadQasim283/unicorn-theme/issues"
+  },
+  "homepage": "https://github.com/FahadQasim283/unicorn-theme",
+  "icon": "unicorn-dark-icon.png",
+  "galleryBanner": {
+    "color": "#1a1a2e",
+    "theme": "dark"
+  },
+  "qna": "marketplace",
+  "pricing": "Free",
+  "keywords": [
+    "theme",
+    "dark theme",
+    "unicorn",
+    "magical",
+    "colorful",
+    "vibrant",
+    "syntax highlighting",
+    "programming",
+    "code",
+    "vscode theme",
+    "dark mode"
+  ],
   "engines": {
     "vscode": "^1.85.0"
   },

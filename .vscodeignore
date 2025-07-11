@@ -2,3 +2,11 @@
 .vscode-test/**
 .gitignore
 vsc-extension-quickstart.md
+**/node_modules/**
+**/.eslintrc.json
+**/*.map
+**/*.ts
+.git/**
+*.vsix
+.DS_Store
+Thumbs.db
