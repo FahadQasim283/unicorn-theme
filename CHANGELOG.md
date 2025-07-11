@@ -4,6 +4,18 @@ All notable changes to the "Unicorn Dark Theme" extension will be documented in 
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [1.0.0] - 2025-07-11
+
+### Added
+- Major stable release 🚀
+- Fixed screenshot display issues on VS Code Marketplace
+- Enhanced marketplace visibility and SEO
+- Improved theme stability and performance
+
+### Fixed
+- Updated image URLs to use absolute GitHub URLs
+- Improved documentation and installation guide
+
 ## [0.0.2] - 2025-07-11
 
 ### Fixed

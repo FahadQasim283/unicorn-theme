@@ -61,11 +61,11 @@ and many more!
 
 ## 📝 What's New
 
-### Version 0.0.1
-- Initial release
-- Magical unicorn-inspired color scheme
-- Support for semantic highlighting
-- Optimized for multiple programming languages
+### Version 1.0.0
+- Major release with fixed screenshot display
+- Enhanced marketplace visibility  
+- Improved theme stability
+- Updated documentation
 
 
 ## 📄 License
